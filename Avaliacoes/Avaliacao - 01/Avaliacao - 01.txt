@@ -1,3 +1,9 @@
-atividade 
+Instituto Federal do Ceará - IFCE 
+Aluna: Iara de Matos Galdino
+Professor: Ricardo Duarte Taveira
+Curso e semestre: Informátca - P4
 
-01- dicoruvoijspwokswpok
+1) Dado: : Fato do mundo real que está registrado.
+2) Informação: : Fato útil que pode ser extraído direta ou indiretamente a partir dos dados.
+3) Arquivo Convencional: É a forma que os arquivos ficam organizados e é com isso, que dá preferência ao banco de dados.
+4) Banco de Dados: É uma coleção organizada de informações/dados que são armazenados em um sistema de computador.
