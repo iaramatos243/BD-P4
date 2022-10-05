@@ -1,0 +1,6 @@
+Atividade 03 - 08/09/22
+1) Modelagem Conceitual:  É o processo de desenvolver um modelo ou representação gráfica usando conceitos ou ideias do mundo real.
+
+2) Projeto Lógico: É a etapa seguinte da modelagem conceitual e é definido como a descrição da estrutura que pode ser processada pelo SGBD, essa descrição é obtida a partir do mapeamento de um modelo conceitual.
+
+3) Projeto Físico: É a parte final do projeto de banco de dados.

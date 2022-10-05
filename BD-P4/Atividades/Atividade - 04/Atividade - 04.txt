@@ -1,0 +1,14 @@
+Atividade 04 - 08/09/22
+a) Entidade: É um objeto que existe e é distinguível dos outros objetos.
+
+b) Relacionamento: São associações entre tabelas que são criadas usando instruções de junção para recuperar dados.
+
+c) Atributo: É um nome de coluna e o conteúdo dos campos sob ele em uma tabela em um banco de dados.
+
+d) Domínio de um Atributo: Um domínio é um conjunto (possivelmente infinito em número) de valores definido e nomeado, do qual um ou mais atributos extraem seus valores.
+
+e) Generalização/especialização: São os principais princípios da modelagem de banco de dados.  especialização é baseada em um refinamento de tipos ou classes para outras mais específicas. A generalização mapeia ou agrupa tipos ou classes para mais abstratos ou combinados.
+
+f) Entidade Associativa: É um termo usado na teoria relacional e de entidade-relacionamento. Um banco de dados relacional requer a implementação de uma relação base (ou tabela base) para resolver relacionamentos muitos-para-muitos.
+
+g) Cardinalidade de um Atributo: É o número máximo e mínimo de ocorrências de uma entidade que estão associadas às ocorrências de outra entidade que participa do relacionamento.

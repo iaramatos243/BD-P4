@@ -1,0 +1,4 @@
+Atividade 02 - 08/09/22
+1) Sistema Isolado: É um mecanismo de armazenamento de dados que proporciona isolamento e segurança ao definir formas padronizadas de associar código a dados salvos.
+
+2) Sistema Integrado: É um software que organiza todas as operações de um negócio, promovendo a comunicação e garantindo que os processos sejam colocados em prática, independente do setor da empresa.
